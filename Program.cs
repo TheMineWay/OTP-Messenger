@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using OTP_Messenger.utils;
+
+Logger.Log("Init");
+Console.ReadLine();
